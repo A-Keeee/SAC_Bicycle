@@ -1,0 +1,2 @@
+controller,scenario,path,rmse_m,max_abs_error_m,steer_rate_std_rad_s,avg_decision_time_ms,steps
+PID_Stanley,nominal,double_lane_change,0.47914308845120607,1.0796742025374522,0.0754321527590538,0.007463149759404139,268
